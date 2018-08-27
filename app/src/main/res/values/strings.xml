@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">App Lista de Compras</string>
+    <string name="nome">Nome</string>
+    <string name="inNome">Informe o Produto</string>
+    <string name="quant">Quant</string>
+    <string name="inQuant">Informe a Quantidade</string>
+    <string name="limpar">LIMPAR</string>
+    <string name="gravar">GRAVAR</string>
+</resources>
